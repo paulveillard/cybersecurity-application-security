@@ -86,31 +86,31 @@ Content management systems offer interfaces that can be accessed and updated and
 ![image](https://github.com/paulveillard/cybersecurity-application-security/blob/main/img/advice.png)
 
 
-1. CLASSIFY WEB APPLICATIONS 
+#### 1. CLASSIFY WEB APPLICATIONS 
 > The first thing to do if you want to avoid paying the fiddler is a matter of common sense – you must know the number of web applications your company uses and how are they being used. You cannot build a security system if you don’t know exactly what you need to protect. First step? Make a web applications inventory and try classifying them: very critical, critical, serious, normal. 
 
-2. APPLY THE PRINCIPLE OF LEAST PRIVILEGE
+#### 2. APPLY THE PRINCIPLE OF LEAST PRIVILEGE
 > Access management can make or break web application security. Not all users will need the same set of rights and privileges, so make sure that you confine the higher privileges to only a few. Automated solutions can be of great help here. Our Heimdal™ Privileged Access Management, will make your life a lot easier if you decide to proactively manage, monitor, and control privileged account access. 
 
 
 
-3.  FILTER USER INPUTS
+#### 3.  FILTER USER INPUTS
 > Input fields can be found in almost every web application. These sections, where users introduce data (text, images, file attachments), are often attacked in the attempt to corrupt or take over the web application, so make sure that your company uses filters. 
 
-4. USE APPLICATION MONITORING 
+#### 4. USE APPLICATION MONITORING 
 > By monitoring applications with the help of a web application firewall, you will be able to get some insights regarding what type of traffic flows in, what vulnerabilities are being blocked, what kind of inputs and responses the application is receiving etc. Both of our Heimdal Next-Gen Antivirus & MDM and Endpoint Security Software include the firewall feature and can become your ally in your quest of implementing web application security. 
 
 
-5. PERFORM PROPER TESTING 
+#### 5. PERFORM PROPER TESTING 
 > Testing is a crucial aspect in cybersecurity. When it comes to the web applications your company uses, make sure your security experts perform penetration testing, in order to make sure that there are no logical flaws in the web applications you need to use. 
 
-6. UPDATE THE PASSWORDS FREQUENTLY 
+#### 6. UPDATE THE PASSWORDS FREQUENTLY 
 > This is another simple safety measure that every web application user can adopt. In order to stay safe is mandatory to use strong passwords that include special characters, numbers and letters. We wrote more about this topic here and here. In addition to strong passwords, a two-factor authentication method will make your accounts even more secure and will drastically reduce the cybercriminals’ chances to successfully attack your company. 
 
-7. PROPERLY HANDLE SESSIONS 
+#### 7. PROPERLY HANDLE SESSIONS 
 > Web sessions consist of a series of HTTP requests and the responses of a user, in a certain period of time. Web application sessions are user-initiated and last till the end of the communication between two systems over a network. It’s important to properly handle these sessions if you want to avoid session hijackings, session sniffing, and cross-site scripting attacks.
 
-8. DON’T FORGET ABOUT COOKIES 
+#### 8. DON’T FORGET ABOUT COOKIES 
 > Cookies are crucial for web application security, and yet they are often overlooked. They provide excellent cyber attacks targets since they contain valuable information which helps users to be remembered by the sites they visit. To avoid any nuisances, try not to use cookies to store sensitive information or consider encrypting it and don’t forget to always monitor and control the cookies’ expiry dates. 
 
 Fore More, Visit the [Web Application Hacker's Handbook](http://www.beiruteyecenter.com/uploads/3794_1008_4334.pdf) by Dafydd Stuttard and Marcus Pinto 
