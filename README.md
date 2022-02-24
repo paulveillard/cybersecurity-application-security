@@ -83,6 +83,8 @@ Content management systems offer interfaces that can be accessed and updated and
 
 ##  `Here’s how you can enhance your company’s web application security: ` 
 
+![image](https://github.com/paulveillard/cybersecurity-application-security/blob/main/img/advice.png)
+
 
 1. CLASSIFY WEB APPLICATIONS 
 > The first thing to do if you want to avoid paying the fiddler is a matter of common sense – you must know the number of web applications your company uses and how are they being used. You cannot build a security system if you don’t know exactly what you need to protect. First step? Make a web applications inventory and try classifying them: very critical, critical, serious, normal. 
