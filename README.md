@@ -5,6 +5,8 @@
 ## What is web application security?
 - Web application security is the process of protecting websites and online services against different security threats that exploit vulnerabilities in an application’s code. Common targets for web application attacks are content management systems (e.g., WordPress), database administration tools (e.g., phpMyAdmin) and SaaS applications.
 
+![image](https://github.com/paulveillard/cybersecurity-application-security/blob/main/img/web-application-firewall.png)
+
 ### Perpetrators consider web applications high-priority targets due to:
 
 - The inherent complexity of their source code, which increases the likelihood of unattended vulnerabilities and malicious code manipulation.
