@@ -14,27 +14,27 @@
 > It’s much easier to install, upgrade or maintain a web-based application than a standalone desktop application. Web applications are upgraded in the host servers, and every user can access the updated version as soon as the deployment had finished, without needing to update the application on their PCs. 
 
 #### B. NO DOWNLOAD HASSLES
-From an end-user perspective, this is probably the greatest advantage – with web applications, you don’t have to download anything in order to use the service. A compatible browser with Internet access is usually all you need. 
+> From an end-user perspective, this is probably the greatest advantage – with web applications, you don’t have to download anything in order to use the service. A compatible browser with Internet access is usually all you need. 
 
 #### C. USE OF LESS STORAGE SPACE 
-When using a web application, you don’t have to worry about how much space and memory it needs on your device. Moreover, they can be accessed from any place in the world where there is an active Internet connection. 
+> When using a web application, you don’t have to worry about how much space and memory it needs on your device. Moreover, they can be accessed from any place in the world where there is an active Internet connection. 
 
 #### D. ACCESSIBLE ON VARIOUS PLATFORMS  
-It’s safe to say that nowadays mobility is a great asset and it sure helps a lot not to depend on a certain device in order to complete your tasks. Web applications can be used on any platform (desktop, laptop, phone, tablet), wherever you are. 
+> It’s safe to say that nowadays mobility is a great asset and it sure helps a lot not to depend on a certain device in order to complete your tasks. Web applications can be used on any platform (desktop, laptop, phone, tablet), wherever you are. 
 
 
 ## Web Application Types
 #### A. STATIC WEB APPLICATIONS 
-These are the most basic type of web application, created using HTML and CSS. If you need to make any serious changes to it, it’s highly certain that you need to contact the ones who planned and designed it. 
+> These are the most basic type of web application, created using HTML and CSS. If you need to make any serious changes to it, it’s highly certain that you need to contact the ones who planned and designed it. 
 
 #### B. DYNAMIC WEB APPLICATIONS 
-Dynamic web applications can include databases or forums and have the constant ability to update or change the available information. 
+> Dynamic web applications can include databases or forums and have the constant ability to update or change the available information. 
 
 #### C. E-COMMERCE APPLICATIONS
-E-commerce apps are more complex than the other two mentioned before, since they need a way to collect electronic payment. 
+> E-commerce apps are more complex than the other two mentioned before, since they need a way to collect electronic payment. 
 
 #### D. PORTAL WEB APPLICATIONS 
-Portal web applications include forums, chats, emails etc. and are characterized by many different sections or categories which are accessible by way of a home page. 
+> Portal web applications include forums, chats, emails etc. and are characterized by many different sections or categories which are accessible by way of a home page. 
 
 #### E. ANIMATED WEB APPLICATIONS 
 It’s mandatory for this kind of applications to use FLASH technology. Animated web applications do not work with SEO optimization or positioning, because search engines cannot read their information properly. 
