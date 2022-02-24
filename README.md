@@ -49,7 +49,31 @@ Content management systems offer interfaces that can be accessed and updated and
 ![image](https://github.com/paulveillard/cybersecurity-application-security/blob/main/img/web-application-firewall.png)
 
 
-### Here are the main web application security threats that you need to be aware of: 
+## Here are the main web application security threats that you need to be aware of: 
+
+#### 1. CROSS-SITE SCRIPTING ( XSS)
+In a cross-site scripting attack, hackers inject client-side scripts into webpages to get direct access to important information, to impersonate the user or to trick the user into disclosing sensitive data. If a visitor loads the compromised page, his/her browser may execute the malicious code. This kind of attack is not really the most sophisticated, but it is the most common. 
+
+#### 2. CROSS-SITE REQUEST FORGERY 
+This type of attack is a serious web application security vulnerability, involving tricking a user into making a request utilizing their authentication or authorization. By leveraging account privileges, attackers are able to send false requests. The common targets for cross-site request forgeries are the highly privileged accounts, like administrator or executive, which results in the exfiltration, destruction or modification of important information. 
+
+#### 3. DENIAL-OF-SERVICE (DOS) & DISTRIBUTED DENIAL-OF-SERVICE (DDOS) ATTACKS 
+During a DoS or DDoS attack, hackers try to overload a targeted server or its surrounding infrastructure. When the server is no longer able to effectively process incoming requests, it will start to behave in an irregular manner, denying service to incoming requests from legitimate users. 
+
+#### 4. DATA BREACHES 
+Data breaches may occur through malicious actions or by mistake, but the consequence is the same: sensitive or confidential information gets leaked. Depending on the company who is unfortunate enough to experience a data breach, millions of user accounts can get exposed. 
+
+#### 5. BUFFER OVERFLOW
+The term buffer refers to memory storage regions that temporarily hold data during its transfer from one location to another. A buffer overflow/overrun happens when the data volume is bigger than the storage capacity of the memory buffer, which results in adjacent memory locations being overwritten with data. By overwriting the memory of an application, the execution path of the program is changed, which triggers a response that compromises files or exposes sensitive information. Moreover, extra codes that send new instructions to the application may be introduced to get access to the IT systems. 
+
+#### 6. SQL INJECTION (SQI) 
+Structured Query Language (SQL) represents a programming language typically used in relational databases or data stream management systems, being very effective in querying, manipulating, aggregating data and performing an impressive number of other functions. In a SQL Injection attack,  the malicious players exploit vulnerabilities in the way a database executes search queries. 
+
+#### 7. MEMORY CORRUPTION 
+Memory corruptions refer to that process in which a location in memory is unintentionally modified, possibly leading into unexpected behaviour. Hackers will try to exploit this by attempting code injections or buffer overflow attacks. 
+
+#### 8. PATH TRAVERSAL
+Path traversal attacks refer to the injection of “../” patterns in order to move up in the server directory hierarchy, for the purpose of accessing unauthorized files or directories outside the webroot folder. Successful path traversal attack might allow hackers access to user credentials, configuration files or even databases.  All these sound pretty alarming, but, fortunately, there are many options you can choose when it comes to web application security and protecting your company by detecting, preventing and responding to attacks. 
 
 
 
