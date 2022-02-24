@@ -39,10 +39,10 @@
 > Portal web applications include forums, chats, emails etc. and are characterized by many different sections or categories which are accessible by way of a home page. 
 
 #### E. ANIMATED WEB APPLICATIONS 
-It’s mandatory for this kind of applications to use FLASH technology. Animated web applications do not work with SEO optimization or positioning, because search engines cannot read their information properly. 
+> It’s mandatory for this kind of applications to use FLASH technology. Animated web applications do not work with SEO optimization or positioning, because search engines cannot read their information properly. 
 
 #### F. CONTENT MANAGEMENT SYSTEMS 
-Content management systems offer interfaces that can be accessed and updated and are used for personal or corporate blogs, media sites and so on.  If we want to talk about web application security, though, we must first specify that web applications are related to the supply chain topic, which we covered here. Unfortunately but not surprisingly, as third-parties in your business workflow, web applications can be attacked in various ways, from database manipulation to large-scale network disruption.  According to DARKReading, 
+> Content management systems offer interfaces that can be accessed and updated and are used for personal or corporate blogs, media sites and so on.  If we want to talk about web application security, though, we must first specify that web applications are related to the supply chain topic, which we covered here. Unfortunately but not surprisingly, as third-parties in your business workflow, web applications can be attacked in various ways, from database manipulation to large-scale network disruption.  According to DARKReading, 
 
 
 ## `What is web application security?`
