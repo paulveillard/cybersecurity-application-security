@@ -2,37 +2,22 @@
 > An ongoing & curated collection of awesome  software practices and remediation, libraries and frameworks,payloads and techniques, best guidelines and technical resources about Application Security.
 
 
+## Introduction
+
+> A Web application (Web app) is an application program that is stored on a remote server and delivered over the Internet through a browser interface. […] Web applications do not need to be downloaded since they are accessed through a network. Users can access a Web application through a web browser such as Google Chrome, Mozilla Firefox or Safari. For a web app to operate, it needs a Web server, application server, and a database. Web servers manage the requests that come from a client, while the application server completes the requested task. A database can be used to store any needed information.
+
+
+
+
 ## What is web application security?
 - Web application security is the process of protecting websites and online services against different security threats that exploit vulnerabilities in an application’s code. Common targets for web application attacks are content management systems (e.g., WordPress), database administration tools (e.g., phpMyAdmin) and SaaS applications.
 
 ![image](https://github.com/paulveillard/cybersecurity-application-security/blob/main/img/web-application-firewall.png)
 
-### Perpetrators consider web applications high-priority targets due to:
 
-- The inherent complexity of their source code, which increases the likelihood of unattended vulnerabilities and malicious code manipulation.
-- High value rewards, including sensitive private data collected from successful source code manipulation.
-- Ease of execution, as most attacks can be easily automated and launched indiscriminately against thousands, or even tens or hundreds of thousands of targets at a time.
+### Here are the main web application security threats that you need to be aware of: 
 
 
-Organizations failing to secure their web applications run the risk of being attacked. Among other consequences, this can result in information theft, damaged client relationships, revoked licenses and legal proceedings.
 
-### How does application security testing reduce your organization’s risk?
-
-#### Majority of Web Application Attacks
-
-- SQL Injection
-- XSS (Cross Site Scripting)
-- Remote Command Execution
-- Path Traversal
-
-#### Attack Results
-
-- Access to restricted content
-- Compromised user accounts
-- Installation of malicious code
-- Lost sales revenue
-- Loss of trust with customers
-- Damaged brand reputation
-- And much more
 
 ## Table of Contents
