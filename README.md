@@ -11,7 +11,7 @@
 
 ## Benefits of a Web Application
 #### A. EASIER INSTALLATION AND MAINTENANCE 
-It’s much easier to install, upgrade or maintain a web-based application than a standalone desktop application. Web applications are upgraded in the host servers, and every user can access the updated version as soon as the deployment had finished, without needing to update the application on their PCs. 
+> It’s much easier to install, upgrade or maintain a web-based application than a standalone desktop application. Web applications are upgraded in the host servers, and every user can access the updated version as soon as the deployment had finished, without needing to update the application on their PCs. 
 
 #### B. NO DOWNLOAD HASSLES
 From an end-user perspective, this is probably the greatest advantage – with web applications, you don’t have to download anything in order to use the service. A compatible browser with Internet access is usually all you need. 
