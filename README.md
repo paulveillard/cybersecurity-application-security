@@ -21,6 +21,24 @@ When using a web application, you don’t have to worry about how much space and
 It’s safe to say that nowadays mobility is a great asset and it sure helps a lot not to depend on a certain device in order to complete your tasks. Web applications can be used on any platform (desktop, laptop, phone, tablet), wherever you are. 
 
 
+### Web applications may be: 
+#### A. STATIC WEB APPLICATIONS 
+These are the most basic type of web application, created using HTML and CSS. If you need to make any serious changes to it, it’s highly certain that you need to contact the ones who planned and designed it. 
+
+#### B. DYNAMIC WEB APPLICATIONS 
+Dynamic web applications can include databases or forums and have the constant ability to update or change the available information. 
+
+#### C. E-COMMERCE APPLICATIONS
+E-commerce apps are more complex than the other two mentioned before, since they need a way to collect electronic payment. 
+
+#### D. PORTAL WEB APPLICATIONS 
+Portal web applications include forums, chats, emails etc. and are characterized by many different sections or categories which are accessible by way of a home page. 
+
+#### E. ANIMATED WEB APPLICATIONS 
+It’s mandatory for this kind of applications to use FLASH technology. Animated web applications do not work with SEO optimization or positioning, because search engines cannot read their information properly. 
+
+#### F. CONTENT MANAGEMENT SYSTEMS 
+Content management systems offer interfaces that can be accessed and updated and are used for personal or corporate blogs, media sites and so on.  If we want to talk about web application security, though, we must first specify that web applications are related to the supply chain topic, which we covered here. Unfortunately but not surprisingly, as third-parties in your business workflow, web applications can be attacked in various ways, from database manipulation to large-scale network disruption.  According to DARKReading, 
 
 
 ## What is web application security?
