@@ -9,7 +9,7 @@
 ![image](https://github.com/paulveillard/cybersecurity-application-security/blob/main/img/Anatomy_WEB_APPLICATION.png)
 
 
-### Among the benefits of web applications we list:
+## Benefits of a Web Application
 #### A. EASIER INSTALLATION AND MAINTENANCE 
 It’s much easier to install, upgrade or maintain a web-based application than a standalone desktop application. Web applications are upgraded in the host servers, and every user can access the updated version as soon as the deployment had finished, without needing to update the application on their PCs. 
 
@@ -23,7 +23,7 @@ When using a web application, you don’t have to worry about how much space and
 It’s safe to say that nowadays mobility is a great asset and it sure helps a lot not to depend on a certain device in order to complete your tasks. Web applications can be used on any platform (desktop, laptop, phone, tablet), wherever you are. 
 
 
-### Web applications may be: 
+## Web Application Types
 #### A. STATIC WEB APPLICATIONS 
 These are the most basic type of web application, created using HTML and CSS. If you need to make any serious changes to it, it’s highly certain that you need to contact the ones who planned and designed it. 
 
