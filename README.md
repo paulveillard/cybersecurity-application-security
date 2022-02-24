@@ -51,6 +51,9 @@ Content management systems offer interfaces that can be accessed and updated and
 
 ## Here are the main web application security threats that you need to be aware of: 
 
+
+![image](https://github.com/paulveillard/cybersecurity-application-security/blob/main/img/threats.png)
+
 #### 1. CROSS-SITE SCRIPTING ( XSS)
 In a cross-site scripting attack, hackers inject client-side scripts into webpages to get direct access to important information, to impersonate the user or to trick the user into disclosing sensitive data. If a visitor loads the compromised page, his/her browser may execute the malicious code. This kind of attack is not really the most sophisticated, but it is the most common. 
 
