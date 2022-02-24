@@ -8,6 +8,8 @@
 
 ![image](https://github.com/paulveillard/cybersecurity-application-security/blob/main/img/Anatomy_WEB_APPLICATION.png)
 
+## Table of Contents
+
 
 ## Benefits of a Web Application
 #### A. EASIER INSTALLATION AND MAINTENANCE 
