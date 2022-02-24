@@ -2,16 +2,16 @@
 > An ongoing & curated collection of awesome  software practices and remediation, libraries and frameworks,payloads and techniques, best guidelines and technical resources about Application Security.
 
 
-## Introduction
+## `Introduction`
 
 > A Web application (Web app) is an application program that is stored on a remote server and delivered over the Internet through a browser interface. […] Web applications do not need to be downloaded since they are accessed through a network. Users can access a Web application through a web browser such as Google Chrome, Mozilla Firefox or Safari. For a web app to operate, it needs a Web server, application server, and a database. Web servers manage the requests that come from a client, while the application server completes the requested task. A database can be used to store any needed information.
 
 ![image](https://github.com/paulveillard/cybersecurity-application-security/blob/main/img/Anatomy_WEB_APPLICATION.png)
 
-## Table of Contents
+## `Table of Contents`
 
 
-## Benefits of a Web Application
+## `Benefits of a Web Application`
 #### A. EASIER INSTALLATION AND MAINTENANCE 
 > It’s much easier to install, upgrade or maintain a web-based application than a standalone desktop application. Web applications are upgraded in the host servers, and every user can access the updated version as soon as the deployment had finished, without needing to update the application on their PCs. 
 
@@ -45,13 +45,13 @@ It’s mandatory for this kind of applications to use FLASH technology. Animated
 Content management systems offer interfaces that can be accessed and updated and are used for personal or corporate blogs, media sites and so on.  If we want to talk about web application security, though, we must first specify that web applications are related to the supply chain topic, which we covered here. Unfortunately but not surprisingly, as third-parties in your business workflow, web applications can be attacked in various ways, from database manipulation to large-scale network disruption.  According to DARKReading, 
 
 
-## What is web application security?
+## `What is web application security?`
 - Web application security is the process of protecting websites and online services against different security threats that exploit vulnerabilities in an application’s code. Common targets for web application attacks are content management systems (e.g., WordPress), database administration tools (e.g., phpMyAdmin) and SaaS applications.
 
 ![image](https://github.com/paulveillard/cybersecurity-application-security/blob/main/img/web-application-firewall.png)
 
 
-## Here are the main web application security threats that you need to be aware of: 
+## `Here are the main web application security threats that you need to be aware of:` 
 
 
 ![image](https://github.com/paulveillard/cybersecurity-application-security/blob/main/img/threats.png)
@@ -81,7 +81,7 @@ Content management systems offer interfaces that can be accessed and updated and
 > Path traversal attacks refer to the injection of “../” patterns in order to move up in the server directory hierarchy, for the purpose of accessing unauthorized files or directories outside the webroot folder. Successful path traversal attack might allow hackers access to user credentials, configuration files or even databases.  All these sound pretty alarming, but, fortunately, there are many options you can choose when it comes to web application security and protecting your company by detecting, preventing and responding to attacks. 
 
 
-## Here’s how you can enhance your company’s web application security: 
+## `Here’s how you can enhance your company’s web application security:`
 1. CLASSIFY WEB APPLICATIONS 
 The first thing to do if you want to avoid paying the fiddler is a matter of common sense – you must know the number of web applications your company uses and how are they being used. You cannot build a security system if you don’t know exactly what you need to protect. First step? Make a web applications inventory and try classifying them: very critical, critical, serious, normal. 
 
@@ -153,8 +153,8 @@ Memory corruptions refer to that process in which a location in memory is uninte
 8. PATH TRAVERSAL
 Path traversal attacks refer to the injection of “../” patterns in order to move up in the server directory hierarchy, for the purpose of accessing unauthorized files or directories outside the webroot folder. Successful path traversal attack might allow hackers access to user credentials, configuration files or even databases.  All these sound pretty alarming, but, fortunately, there are many options you can choose when it comes to web application security and protecting your company by detecting, preventing and responding to attacks. 
 
-Here’s how you can enhance your company’s web application security: 
-web application security - advice / precautions
+## `Here’s how you can enhance your company’s web application security:` 
+
 
 1. CLASSIFY WEB APPLICATIONS 
 The first thing to do if you want to avoid paying the fiddler is a matter of common sense – you must know the number of web applications your company uses and how are they being used. You cannot build a security system if you don’t know exactly what you need to protect. First step? Make a web applications inventory and try classifying them: very critical, critical, serious, normal. 
