@@ -6,6 +6,8 @@
 
 > A Web application (Web app) is an application program that is stored on a remote server and delivered over the Internet through a browser interface. […] Web applications do not need to be downloaded since they are accessed through a network. Users can access a Web application through a web browser such as Google Chrome, Mozilla Firefox or Safari. For a web app to operate, it needs a Web server, application server, and a database. Web servers manage the requests that come from a client, while the application server completes the requested task. A database can be used to store any needed information.
 
+![image](https://github.com/paulveillard/cybersecurity-application-security/blob/main/img/web-application-firewall.png)
+
 
 ### Among the benefits of web applications we list:
 #### A. EASIER INSTALLATION AND MAINTENANCE 
