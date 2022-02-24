@@ -272,6 +272,6 @@ Web sessions consist of a series of HTTP requests and the responses of a user, i
 8. DON’T FORGET ABOUT COOKIES 
 Cookies are crucial for web application security, and yet they are often overlooked. They provide excellent cyber attacks targets since they contain valuable information which helps users to be remembered by the sites they visit. To avoid any nuisances, try not to use cookies to store sensitive information or consider encrypting it and don’t forget to always monitor and control the cookies’ expiry dates. 
 
-Fore More, Visit the [Web Application Hacker's Handbook] by Dafydd Stuttard and Marcus Pinto 
+Fore More, Visit the [Web Application Hacker's Handbook](http://www.beiruteyecenter.com/uploads/3794_1008_4334.pdf) by Dafydd Stuttard and Marcus Pinto 
 
-## Table of Contents
+
