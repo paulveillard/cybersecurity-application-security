@@ -4,8 +4,6 @@ An ongoing & curated collection of awesome software best practices and technique
 
 # Theory
 
-## `Table of Contents`
-
 ## `Theory` - Table of Contents
 - [Introduction](#introduction)
  
